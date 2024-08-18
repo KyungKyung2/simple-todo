@@ -1,6 +1,6 @@
-# untitled4
+# simple todo
 
-A new Flutter project.
+just practice
 
 ## Getting Started
 
